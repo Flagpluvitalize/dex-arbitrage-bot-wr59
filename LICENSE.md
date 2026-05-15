@@ -1,4 +1,4 @@
-# 
+# Enhance your trading with instant dex arbitrage bot Plugin | transaction-batching + front-running-detection, the #1 dex arbitrage bot. Includes transaction-batching and
 
 
 
